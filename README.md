@@ -11,7 +11,7 @@ Currently, it only works on simple pages with `<form>` logins. It might work on 
 
 Clone this git repository to download the necessary files and run the script:
 ```Shell
-git clone https://github.com/thom-s/httphish
+git clone https://github.com/miguelangelramirez/httphish.git
 cd httphish
 sudo python3 httphish.py
 ```
